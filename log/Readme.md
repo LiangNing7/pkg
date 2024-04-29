@@ -1,4 +1,4 @@
-# [日志包]()
+# [日志包](https://github.com/LiangNing7/pkg/tree/main/log)
 
 > 该 log 包主要基于`zap`包，并在其中集成了`gorm`和`kratos`的`log`
 
